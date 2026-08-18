@@ -7,9 +7,10 @@ Objetivo desta versão:
 - converter interesse em contato por Instagram/WhatsApp;
 - manter estética nórdica com chamas ciano e boa experiência mobile.
 
-COMO CONFIGURAR INSTAGRAM E WHATSAPP
-Abra index.html e procure por data-configure-link. Substitua href="#" pelos links oficiais.
-Exemplo WhatsApp: https://wa.me/55DDDNUMERO
+CONTATOS OFICIAIS CONFIGURADOS
+Instagram: https://www.instagram.com/filhosdeasgardairsoft/?utm_source=chatgpt.com
+WhatsApp: +55 79 99642-7351
+Os botões já estão configurados e abrem em uma nova aba. O WhatsApp inclui uma mensagem inicial pronta.
 
 COMO ADICIONAR FOTOS
 1. Coloque as imagens em assets/ ou crie assets/gallery/.
