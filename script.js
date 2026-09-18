@@ -15,8 +15,6 @@ document.querySelectorAll('.gear-card').forEach(card => card.addEventListener('c
 
 /* GALERIA: adicione fotos no array abaixo. category: operacoes | treinos | equipe | bastidores */
 const galleryImages = [
-  { src:'assets/hero.jpg', title:'Operação urbana', alt:'Operador da Filhos de Asgard em cenário tático', category:'operacoes' },
-  { src:'assets/batalha.jpg', title:'Zona de combate', alt:'Registro de cenário de batalha de airsoft', category:'operacoes' },
   { src:'assets/equipe-asgard-01.webp', title:'Filhos de Asgard em campo', alt:'Integrantes da equipe Filhos de Asgard reunidos com a bandeira da equipe', category:'equipe' },
   { src:'assets/equipe-asgard-02.webp', title:'Registro da equipe', alt:'Integrantes da equipe Filhos de Asgard reunidos durante atividade de airsoft', category:'equipe' },
   { src:'assets/equipe-asgard-03.webp', title:'Irmandade em operação', alt:'Grupo da Filhos de Asgard reunido com a bandeira oficial da equipe', category:'equipe' },
